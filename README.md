@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamikarec&label=Profile%20views&color=0e75b6&style=flat" alt="anamikarec" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anamikarec" alt="anamikarec" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anamikarec" alt="anamikarec" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/anamikarec" target="blank"><img src="https://img.shields.io/twitter/follow/anamikarec?logo=twitter&style=for-the-badge" alt="anamikarec" /></a> </p>
 
