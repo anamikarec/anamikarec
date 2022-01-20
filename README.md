@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/65801101/150384162-0def2dcd-8505-4fa2-ac4e-71b7bbf8f613.jpeg" alt="img" width="800" height="350"/>
 ### Hi there 👋
 
 
@@ -13,6 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-![web1](https://user-images.githubusercontent.com/65801101/150384162-0def2dcd-8505-4fa2-ac4e-71b7bbf8f613.jpeg)
-
