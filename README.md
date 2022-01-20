@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**anamikarec/anamikarec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -10,7 +8,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+
+https://user-images.githubusercontent.com/65801101/150349119-4c76ad26-863b-48aa-b594-3e931c74c8ce.mp4
+
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
